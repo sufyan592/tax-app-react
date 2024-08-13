@@ -1,0 +1,53 @@
+
+   .form-inputs{
+    display: grid;
+    grid-template-columns: 40% 20%;
+    gap: 5px;
+   }
+   .form-inputs input{
+    padding: 0.6rem 1rem;
+    border-radius: 0.2rem;
+    border: 2px solid #e8e8e8;
+   }
+   .tax-cal{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0;
+    padding-bottom: 0.8rem;
+    border-bottom: 1px solid #e8e8e8;
+    gap: 5px;
+   }
+   .tax-cal input[type="radio"] {
+    color: #f16d36;
+    background-color: #f16d36;
+}
+.tax-categories-header{
+  background-color: #e8e8e8;
+  padding: 0.7rem 0.3rem;
+  margin: 0.7rem 0;
+}
+
+.tax-form button{
+  padding: 0.6rem 2rem;
+  background-color: #f16d36;
+  color: #fff;
+  border-radius: 0.3rem;
+  border: 1px solid #f16d36;
+  cursor: pointer;
+  transition: all 0.5s;
+
+}
+.tax-form button:hover{
+  background-color: transparent;
+  color: #f16d36;
+
+}
+.form-btn{
+  border-top: 1px solid #e8e8e8;
+  text-align: right;
+  padding: 1rem;
+}
+
+.form-inputs input::placeholder{
+  color: #d6d6d6;
+}

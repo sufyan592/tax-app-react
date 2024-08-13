@@ -1,0 +1,75 @@
+[
+    {
+      "id": 14864,
+      "tab_id": 3202,
+      "name": "Recurring Item",
+      "amount": 12.0,
+      "amount_type": "fixed",
+      "category": null,
+      "subcategory": null
+    },
+    {
+      "id": 14865,
+      "tab_id": 3202,
+      "name": "Jasinthe Bracelet",
+      "amount": 26.0,
+      "amount_type": "fixed",
+      "category": { "id": 14866, "name": "Bracelets" },
+      "subcategory": null
+    },
+    {
+      "id": 14867,
+      "tab_id": 3202,
+      "name": "Jasinthe Bracelet",
+      "amount": 26.0,
+      "amount_type": "fixed",
+      "category": { "id": 14866, "name": "Bracelets" },
+      "subcategory": null
+    },
+    {
+      "id": 14868,
+      "tab_id": 3202,
+      "name": "Recurring Item with questions",
+      "amount": 12.0,
+      "amount_type": "fixed",
+      "category": null,
+      "subcategory": null
+    },
+    {
+      "id": 14869,
+      "tab_id": 3202,
+      "name": "Zero amount item with questions",
+      "amount": 0.0,
+      "amount_type": "fixed",
+      "category": null,
+      "subcategory": null
+    },
+    {
+      "id": 14870,
+      "tab_id": 3202,
+      "name": "Inspire Bracelet",
+      "amount": 32.0,
+      "amount_type": "fixed",
+      "category": { "id": 14866, "name": "Bracelets" },
+      "subcategory": null
+    },
+    {
+      "id": 14872,
+      "tab_id": 3202,
+      "name": "Normal item with questions",
+      "amount": 55.0,
+      "amount_type": "fixed",
+      "category": null,
+      "subcategory": null
+    },
+    {
+      "id": 14873,
+      "tab_id": 3202,
+      "name": "normal item",
+      "amount": 20.0,
+      "amount_type": "fixed",
+      "category": null,
+      "subcategory": null
+    }
+  ]
+  
